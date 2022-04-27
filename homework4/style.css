@@ -45,17 +45,13 @@ body{
 }
 
 #reset:hover{
+    cursor: pointer;
     transform: scale(1.25);
 
 }
-/* #score{*/
-/*    */
-/*    margin-left: 20px;*/
-/*    border: black;*/
-/*    width: 60px;*/
-/*    height: 60px;*/
-/*}*/
+
 .quart {
+    position: absolute;
     font-weight: bold;
     font-size: 30px;
     padding: 20px;
@@ -68,4 +64,9 @@ body{
     height: 60px;
     margin-left: 600px;
 
+}
+
+.random{
+    margin-top: 60px;
+    margin-left: 60px;
 }

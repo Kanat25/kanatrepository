@@ -1,4 +1,4 @@
-const arrray =[
+    const arrray =[
     {
         username: "jack",
         fullname: 'jack kyrgyz'

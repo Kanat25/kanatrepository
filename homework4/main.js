@@ -1,6 +1,4 @@
 
-
-
 const plus = document.getElementById('plus')
 const minus = document.getElementById('minus')
 const score = document.getElementById('score')
@@ -21,3 +19,7 @@ reset.onclick = () => {
     num = 0;
     score.innerText = num
 }
+
+
+
+const random= document.getElementsByClassName("random")

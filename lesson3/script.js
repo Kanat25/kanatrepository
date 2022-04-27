@@ -34,19 +34,19 @@ function n(number1, number2) {
     if (number1 > number2) {
         console.log("число 1 больше");
 
-    } else if (number1 === number2) {
-        console.log("числа одинаковы");
+    } else if (number2 > number1) {
+        console.log("число 2 больше");
 
     } else {
-        console.log("число 2 больше");
+        console.log("числа одинаковы");
     }
 }
 
-n(7,6)
+n(6,4)
 
 // 2
 
-function twoMas(array1,array2) {
+function twoMassive(array1,array2) {
 
     if (array1.length > array2.length){
         console.log("массив 1 длиннее массива 2");
@@ -58,12 +58,13 @@ function twoMas(array1,array2) {
         console.log("массив 2 больше");
     }
 }
-twoMas([3], [2])
+twoMassive([1,2,2], [4,4,4,4])
 
 // 3
 
-function countchar(user1) {
+function counter(user1) {
     user1.length
     console.log(user1.length)
 }
-countchar("fkwjfijeofihofh")
+counter("fkwjfijeofihofhwefef")
+

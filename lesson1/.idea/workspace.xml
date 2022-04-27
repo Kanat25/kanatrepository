@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05f64f83-ae0e-4a29-8528-b6498b9f1dd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lesson2/dz2/mainn.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson2/dz2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson2/dz2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson2/dz2/main.js" beforeDir="false" />
-    </list>
+    <list default="true" id="05f64f83-ae0e-4a29-8528-b6498b9f1dd0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dzshki/hw2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson2" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,6 +45,7 @@
       <workItem from="1649524339606" duration="376000" />
       <workItem from="1649695565615" duration="604000" />
       <workItem from="1649791270872" duration="799000" />
+      <workItem from="1650217690309" duration="105000" />
     </task>
     <servers />
   </component>
@@ -62,9 +57,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="267" y="19" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1649450212249" />
-    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1649791473920">
+    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1650217744057">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1649791473920" />
+    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1650217744057" />
   </component>
 </project>
