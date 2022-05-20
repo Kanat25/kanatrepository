@@ -1,0 +1,97 @@
+body{
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(90deg, #123953 20%, #234454 0%);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form{
+    border-radius: 30px;
+    background: darkcyan;
+    width: 500px;
+    padding: 10px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.header input{
+    border: none;
+    background: #D0EEFF;
+    border-radius: 20px;
+    width: 80%;
+    height: 30px;
+    font-size: 18px;
+}
+.header button{
+    cursor: move;
+    border: none;
+    font-family: monospace;
+    margin-left: 20px;
+    background: #D0EEFF ;
+    width: 20%;
+}
+button:hover{
+    background: aquamarine;
+    transform: scale(1.25);
+}
+
+.todoBlock {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.actions button{
+    border-radius: 30px;
+    width: 150px;
+    height: 30px;
+    font-size: 18px;
+    /*border: 2px solid white;*/
+    text-align: center;
+}
+.actions button:hover{
+
+    cursor: pointer;
+    background: bisque;
+}
+.todoBlock p{
+    color: white;
+    font-size: 18px;
+}
+
+.change {
+    margin-right: 20px;
+    font-family: monospace;
+    font-weight: 700;
+    font-size: 30px;
+    border: none;
+    background: darkgoldenrod;
+    color: #ffffff;
+}
+
+.delete {
+    font-family: monospace;
+    font-weight: 700;
+    font-size: 30px;
+    border:none;
+    color: #ffffff;
+    background: darkred;
+}
+
+.add{
+    border-radius: 35px;
+    background: linear-gradient(90deg, #D52047 50%, ##D0EEFF 40%);
+}
+.delete:hover{
+    background: aquamarine;
+}
+.change:hover{
+    background:  ;
+}

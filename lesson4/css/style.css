@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+/*.block{*/
+/*    font-size: 40px;*/
+/*}*/
+
+#block3.active{
+    border-radius: 50%;
+    background:red;
+}
+button:hover{
+    background-color: darkred;
+}
+button:before{
+    content: "";
+    background: linear-gradient(180deg #234454, #123953);
+
+}
+button2{
+    transform: scale(1.40) ;
+    background-color: red;
+}
+
+.askingname{
+    background: red;
+
+}
